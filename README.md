@@ -7,7 +7,7 @@
 - 😄 I love PS(Problem Solving)!
 
 #### 🔭 Interested in
-- Computer Science, especially OS, Algorithms
+- Computer Science, Algorithms
 - Software Engineering
 - Web Front-end / Back-end
 
