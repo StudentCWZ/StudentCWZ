@@ -1,4 +1,18 @@
-### Hi there 👋
+### StudentCWZ's Github
+
+#### 👨‍💻 About me
+- Hi there 👋. Welcome to my Github.
+- 🤔 My name is StudentCWZ from China.
+- 🌱 I like to study overall software technology, framework and computer science. 
+- 😄 I love PS(Problem Solving)!
+
+#### 🔭 Interested in
+- Computer Science, especially OS, Algorithms
+- Software Engineering
+- Web Front-end / Back-end
+
+#### 📃 StudentCWZ's Github Stats
+![StudentCWZ's Github Stats](https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula)
 
 <!--
 **StudentCWZ/StudentCWZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
