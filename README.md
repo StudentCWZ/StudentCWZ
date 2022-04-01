@@ -1,5 +1,3 @@
-### StudentCWZ's Github
-
 #### 👨‍💻 About me
 - Hi there 👋. Welcome to my Github.
 - 🤔 My name is StudentCWZ from China.
