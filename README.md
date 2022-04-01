@@ -10,7 +10,7 @@
 - Web Front-end / Back-end
 
 #### 📃 StudentCWZ's Github Stats
-![StudentCWZ's Github Stats](https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula)
+|![StudentCWZ's Github Stats](https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&layout=compact&theme=tokyonight&langs_count=10)|
 
 <!--
 **StudentCWZ/StudentCWZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
