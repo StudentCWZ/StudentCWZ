@@ -79,14 +79,14 @@
     <a href="#"><img alt="django" src="https://img.shields.io/badge/django-7952B3.svg?logo=django&logoColor=white"></a>
     <a href="#"><img alt="pytorch" src="https://img.shields.io/badge/pytorch-E34A86?logo=pytorch&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit%20learn-F7DF1E.svg?logo=scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit%20learn-F7DF1E.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
     <a href="#"><img alt="selenium" src="https://img.shields.io/badge/selenium-02569B.svg?logo=selenium&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="Websockets" src="https://img.shields.io/badge/Websockets-C21325.svg?logo=websockets&logoColor=white"></a>
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4fc08d?logo=Vue.js&logoColor=white"></a>
     <a href="#"><img alt="Spring" src="https://custom-icon-badges.herokuapp.com/badge/Spring-25A162.svg?logo=spring&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
+    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0081CB.svg?logo=jQuery&logoColor=white"></a>
     <a href="#"><img alt="Symfony" src="https://custom-icon-badges.herokuapp.com/badge/Nextcord-0d1620.svg?logo=nextcord"></a>
     <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.herokuapp.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
