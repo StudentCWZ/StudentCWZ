@@ -2,7 +2,7 @@
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
 </p>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG by StudentCWZ - https://github.com/StudentCWZ/readme-typing-svg -->
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Golang%20and%20Python%20developer;Always%20learning%20new%20things&font=Monaco&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
@@ -131,3 +131,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=StudentCWZ&theme=redical)
 
+
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting%20my%20profile,see%20your%20next%20time!&font=Monaco&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
