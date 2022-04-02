@@ -115,7 +115,7 @@
     <a href="#"><img alt="Jetbrains DataGrip" src="https://img.shields.io/badge/Jetbrains%20DataGrip-302E31?logo=datagrip&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains IntelliJ IDEA" src="https://img.shields.io/badge/Jetbrains%20IntelliJ%20IDEA-DD1100.svg?logo=intelliJ%20idea&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains WebStorm" src="https://img.shields.io/badge/Jetbrains%20WebStorm-0000CC?logo=webStorm&logoColor=white"></a>
-    <a href="#"><img alt="Emcas" src="https://img.shields.io/badge/emcas-175DDC?logo=emcas&logoColor=white"></a>
+    <a href="#"><img alt="Emacs" src="https://img.shields.io/badge/Emacs-175DDC?logo=emacs&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-7952B3.svg?logo=sublime%20text&logoColor=white"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
