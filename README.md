@@ -129,8 +129,8 @@
 <h2 align="left" font-face="Monaco"> ⚡ Most Used Languages </h2>
 
 <p align="center">
-<a href="https://github.com/stundetCWZ/stundetCWZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stundetCWZ&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<a href="https://github.com/studentCWZ/studentCWZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=studentCWZ&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 </p>
 
