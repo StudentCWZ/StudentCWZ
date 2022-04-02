@@ -28,10 +28,10 @@
 
 <h5 align="left" font-face="Monaco"> 🚀 Platform </h5>
 <p>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/MacOS-BigSur-2376bc?style=flat-square&logo=apple&logoColor=white"></a>
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=white"></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=white"></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&logo=centos&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/MacOS-BigSur-2376bc?style=flat-square&font=Monaco&logo=apple&logoColor=white"></a>
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&font=Monaco&logo=windows&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&font=Monaco&logo=ubuntu&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&font=Monaco&logo=centos&logoColor=white"></a>
 </p>
 
 <h5 align="left" font-face="Monaco"> 👨‍💻 Programming languages </h5>
