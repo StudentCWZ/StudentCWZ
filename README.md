@@ -126,13 +126,6 @@
 |![StudentCWZ's Github Stats](https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-<h2 align="left" font-face="Monaco"> ⚡ Most Used Languages </h2>
-
-<p align="center">
-<a href="https://github.com/studentCWZ/studentCWZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=studentCWZ&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
-</p>
 
 <h2 align="left" font-face="Monaco"> ⚡ Recent GitHub Activity </h2>
 
