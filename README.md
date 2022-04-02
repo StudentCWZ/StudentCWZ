@@ -36,43 +36,43 @@
 
 <h5 align="left" font-face="Monaco"> 👨‍💻 Programming languages </h5>
 <p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Golang-0A9EDC.svg?logo=go&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Java-E34A86?style=flat-square&logo=java"/></a>
-    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-FF6F00.svg?logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-430098?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Golang-0A9EDC.svg?logo=go&font=Monaco&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Java-E34A86?style=flat-square&font=Monaco&logo=java"/></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&font=Monaco&logoColor=black"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-FF6F00.svg?logo=markdown&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-430098?logo=gnu-bash&font=Monaco&logoColor=white"></a>
 </p>
 
 <h5 align="left" font-face="Monaco"> 🧰 Frameworks and libraries </h5>
 <p>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-CB2029?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-5C2D91?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="flask" src="https://img.shields.io/badge/-flask-00979D?logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="django" src="https://img.shields.io/badge/django-7952B3.svg?logo=django&logoColor=white"></a>
-    <a href="#"><img alt="pytorch" src="https://img.shields.io/badge/pytorch-E34A86?logo=pytorch&logoColor=white"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-f05032?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit%20learn-F7DF1E.svg?logo=scikit-learn&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-    <a href="#"><img alt="selenium" src="https://img.shields.io/badge/selenium-02569B.svg?logo=selenium&logoColor=white"></a>
-    <a href="#"><img alt="Npm" src="https://custom-icon-badges.herokuapp.com/badge/Npm-D00000.svg?logo=npm"></a>
-    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4fc08d?logo=Vue.js&logoColor=white"></a>
-    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0081CB.svg?logo=jQuery&logoColor=white"></a>
-    <a href="#"><img alt="Spring" src="https://custom-icon-badges.herokuapp.com/badge/Spring-25A162.svg?logo=spring&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.herokuapp.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-3B5526.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-430098?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-CB2029?logo=numpy&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-5C2D91?logo=pandas&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="flask" src="https://img.shields.io/badge/-flask-00979D?logo=flask&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="django" src="https://img.shields.io/badge/django-7952B3.svg?logo=django&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="pytorch" src="https://img.shields.io/badge/pytorch-E34A86?logo=pytorch&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-f05032?logo=Keras&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit%20learn-F7DF1E.svg?logo=scikit-learn&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="selenium" src="https://img.shields.io/badge/selenium-02569B.svg?logo=selenium&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Npm" src="https://custom-icon-badges.herokuapp.com/badge/Npm-D00000.svg?logo=npm&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4fc08d?logo=Vue.js&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0081CB.svg?logo=jQuery&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Spring" src="https://custom-icon-badges.herokuapp.com/badge/Spring-25A162.svg?logo=spring&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&font=Monaco&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.herokuapp.com/badge/PHPUnit-366488.svg?logo=test-tube&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-3B5526.svg?logo=bootstrap&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&font=Monaco&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-430098?logo=github%20actions&font=Monaco&logoColor=white"></a>
 </p>
 
 <h5 align="left" font-face="Monaco"> 🗄️ Databases and cloud hosting </h5>
