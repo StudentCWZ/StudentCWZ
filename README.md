@@ -109,13 +109,13 @@
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-00b56a.svg?logo=Vim&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
-    <a href="#"><img alt="TextMate" src="https://img.shields.io/badge/TextMate-7952B3.svg?logo=textMate&logoColor=white"></a>
+    <a href="#"><img alt="TextMate" src="https://img.shields.io/badge/TextMate-7952B3.svg?logo=TextMate&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains Pycharm" src="https://img.shields.io/badge/Jetbrains%20Pycharm-008678.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains Goland" src="https://img.shields.io/badge/Jetbrains%20Gland-1793D1.svg?logo=goland&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains DataGrip" src="https://img.shields.io/badge/Jetbrains%20DataGrip-302E31?logo=datagrip&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-DD1100.svg?logo=intelliJ%20idea&logoColor=white"></a>
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+    <a href="#"><img alt="BBEdit" src="https://img.shields.io/badge/-BBEdit-175DDC?logo=BBEdit&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-000000.svg?logo=sublime%20text&logoColor=white"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
