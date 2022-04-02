@@ -111,19 +111,18 @@
 
 #### 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/StudentCWZ/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/StudentCWZ/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=StudentCWZ&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 #### 📃 StudentCWZ's Github Stats
 |![StudentCWZ's Github Stats](https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
+#### ⚡ Recent GitHub Activity
 ![](https://activity-graph.herokuapp.com/graph?username=StudentCWZ&theme=redical)
 
 <!--
