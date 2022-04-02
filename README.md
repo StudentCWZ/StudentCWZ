@@ -62,7 +62,6 @@
 
 <p>
     <a href="#"><img alt="flask" src="https://img.shields.io/badge/flask-C21325.svg?logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="flask" src="https://img.shields.io/badge/-flask-00979D?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
