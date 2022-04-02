@@ -43,7 +43,7 @@
 
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Golang-0A9EDC.svg?logo=golang&logoColor=white"></a>
+    <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Golang-0A9EDC.svg?logo=go&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
