@@ -83,13 +83,13 @@
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
     <a href="#"><img alt="selenium" src="https://img.shields.io/badge/selenium-02569B.svg?logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="Npm" src="https://custom-icon-badges.herokuapp.com/badge/Npm-D00000.svg?logo=npm"></a>
     <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4fc08d?logo=Vue.js&logoColor=white"></a>
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0081CB.svg?logo=jQuery&logoColor=white"></a>
     <a href="#"><img alt="Spring" src="https://custom-icon-badges.herokuapp.com/badge/Spring-25A162.svg?logo=spring&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Symfony" src="https://custom-icon-badges.herokuapp.com/badge/Nextcord-0d1620.svg?logo=nextcord"></a>
     <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.herokuapp.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Npm" src="https://custom-icon-badges.herokuapp.com/badge/Npm-D00000.svg?logo=npm"></a>
     <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
     <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
