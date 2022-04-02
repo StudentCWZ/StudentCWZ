@@ -113,6 +113,7 @@
 
 
 <h2 align="left" font-face="Monaco"> 🔥 Streak stats </h2>
+
 <!-- GitHub Readme Streak Stats - https://github.com/StudentCWZ/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/StudentCWZ/github-readme-streak-stats">
@@ -121,6 +122,7 @@
 </p>
 
 <h2 align="left" font-face="Monaco"> 📃 StudentCWZ's Github Stats </h2>
+
 |![StudentCWZ's Github Stats](https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
