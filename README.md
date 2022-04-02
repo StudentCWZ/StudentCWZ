@@ -64,7 +64,7 @@
     <a href="#"><img alt="flask" src="https://img.shields.io/badge/flask-C21325.svg?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="django" src="https://img.shields.io/badge/-django-00979D?logo=django&logoColor=white"></a>
     <a href="#"><img alt="django" src="https://img.shields.io/badge/django-7952B3.svg?logo=django&logoColor=white"></a>
-    <a href="#"><img alt="gin" src="https://img.shields.io/badge/-gin-E8E8E8?logo=gin&logoColor=black"></a>
+    <a href="#"><img alt="beego" src="https://img.shields.io/badge/-beego-E8E8E8?logo=beego&logoColor=black"></a>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
