@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx"/>
 <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
@@ -32,7 +31,6 @@
 <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 </p>
 <p align="center">
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
