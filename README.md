@@ -23,8 +23,8 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&font=Monaco&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&font=Monaco&logo=github"/>
 </p>
-<p align="center">
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
+<h2 align="center" font-face="Monaco">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <h5 align="left" font-face="Monaco"> 🚀 Platform </h5>
 <p>
@@ -34,7 +34,7 @@
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&logo=centos&logoColor=white"></a>
 </p>
 
-##### 👨‍💻 Programming languages
+<h5 align="left" font-face="Monaco"> 👨‍💻 Programming languages </h5>
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Golang-0A9EDC.svg?logo=go&logoColor=white"></a>
@@ -52,8 +52,7 @@
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-430098?logo=gnu-bash&logoColor=white"></a>
 </p>
 
-##### 🧰 Frameworks and libraries
-
+<h5 align="left" font-face="Monaco"> 🧰 Frameworks and libraries </h5>
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-CB2029?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-5C2D91?logo=pandas&logoColor=white"></a>
@@ -76,8 +75,7 @@
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-430098?logo=github%20actions&logoColor=white"></a>
 </p>
 
-##### 🗄️ Databases and cloud hosting
-
+<h5 align="left" font-face="Monaco"> 🗄️ Databases and cloud hosting </h5>
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-C21325.svg?logo=redis&logoColor=white"></a>
@@ -92,8 +90,7 @@
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 </p>
 
-##### 💻 Software and tools
-
+<h5 align="left" font-face="Monaco"> 💻 Software and tools </h5>
 <p>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-00b56a.svg?logo=Vim&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -114,8 +111,8 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 </p>
 
-#### 🔥 Streak stats
 
+<h2 align="left" font-face="Monaco"> 🔥 Streak stats </h2>
 <!-- GitHub Readme Streak Stats - https://github.com/StudentCWZ/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/StudentCWZ/github-readme-streak-stats">
@@ -123,11 +120,11 @@
   </a>
 </p>
 
-#### 📃 StudentCWZ's Github Stats
+<h2 align="left" font-face="Monaco"> 📃 StudentCWZ's Github Stats </h2>
 |![StudentCWZ's Github Stats](https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-#### ⚡ Recent GitHub Activity
+<h2 align="left" font-face="Monaco"> ⚡ Recent GitHub Activity </h2>
 ![](https://activity-graph.herokuapp.com/graph?username=StudentCWZ&theme=redical)
 
 <!--
