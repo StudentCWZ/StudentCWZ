@@ -65,7 +65,7 @@
     <a href="#"><img alt="django" src="https://img.shields.io/badge/-django-00979D?logo=django&logoColor=white"></a>
     <a href="#"><img alt="django" src="https://img.shields.io/badge/django-7952B3.svg?logo=django&logoColor=white"></a>
     <a href="#"><img alt="pytorch" src="https://img.shields.io/badge/-pytorch-E8E8E8?logo=pytorch&logoColor=black"></a>
-    <a href="#"><img alt="twisted" src="https://img.shields.io/badge/twisted-20232e.svg?logo=twisted&logoColor=white"></a>
+    <a href="#"><img alt="beautifulsoup" src="https://img.shields.io/badge/beautifulsoup-20232e.svg?logo=beautifulsoup&logoColor=white"></a>
     <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit%20learn-404d59.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="selenium" src="https://img.shields.io/badge/selenium-02569B.svg?logo=selenium&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
