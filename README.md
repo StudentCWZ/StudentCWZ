@@ -115,9 +115,9 @@
     <a href="#"><img alt="Jetbrains DataGrip" src="https://img.shields.io/badge/Jetbrains%20DataGrip-302E31?logo=datagrip&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains IntelliJ IDEA" src="https://img.shields.io/badge/Jetbrains%20IntelliJ%20IDEA-DD1100.svg?logo=intelliJ%20idea&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains WebStorm" src="https://img.shields.io/badge/Jetbrains%20WebStorm-0000CC?logo=webStorm&logoColor=white"></a>
-    <a href="#"><img alt="Emacs" src="https://img.shields.io/badge/Emacs-175DDC?logo=emacs&logoColor=white"></a>
+    <a href="#"><img alt="Charles" src="https://img.shields.io/badge/Charles-175DDC?logo=charles&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-7952B3.svg?logo=sublime%20text&logoColor=white"></a>
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-430098.svg?logo=sublime%20text&logoColor=white"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
