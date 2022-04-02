@@ -90,11 +90,11 @@
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-0D101E.svg?logo=redis&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-C21325.svg?logo=redis&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-430098.svg?logo=elasticsearch&logoColor=white"></a>
-    <a href="#"><img alt="Rabbitmq" src="https://img.shields.io/badge/Rabbitmq-000000.svg?logo=rabbitmq&logoColor=white"></a>
+    <a href="#"><img alt="Rabbitmq" src="https://img.shields.io/badge/Rabbitmq-5C2D91?logo=rabbitmq&logoColor=white"></a>
     <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/Docker-316192.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-F00000.svg?logo=kubernetes&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-010101.svg?logo=linux&logoColor=white"></a>
