@@ -97,8 +97,8 @@
     <a href="#"><img alt="Rabbitmq" src="https://img.shields.io/badge/Rabbitmq-5C2D91?logo=rabbitmq&logoColor=white"></a>
     <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/Docker-316192.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-F00000.svg?logo=kubernetes&logoColor=white"></a>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-010101.svg?logo=linux&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-F7DF1E.svg?logo=linux&logoColor=white"></a>
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-FF6F00.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 </p>
 
