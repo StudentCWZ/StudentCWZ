@@ -109,7 +109,7 @@
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-00b56a.svg?logo=Vim&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
-    <a href="#"><img alt="Textmate" src="https://img.shields.io/badge/Textmate-7952B3.svg?logo=textmate&logoColor=white"></a>
+    <a href="#"><img alt="TextMate" src="https://img.shields.io/badge/TextMate-7952B3.svg?logo=textMate&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains Pycharm" src="https://img.shields.io/badge/Jetbrains%20Pycharm-008678.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains Goland" src="https://img.shields.io/badge/Jetbrains%20Gland-1793D1.svg?logo=goland&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains DataGrip" src="https://img.shields.io/badge/Jetbrains%20DataGrip-302E31?logo=datagrip&logoColor=white"></a>
