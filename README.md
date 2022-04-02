@@ -65,13 +65,13 @@
 ##### 🧰 Frameworks and libraries
 
 <p>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-CB2029?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-5C2D91?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="flask" src="https://img.shields.io/badge/-flask-00979D?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="django" src="https://img.shields.io/badge/django-7952B3.svg?logo=django&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="pytorch" src="https://img.shields.io/badge/pytorch-E34A86?logo=pytorch&logoColor=white"></a>
-    <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit%20learn-F7DF1E.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit%20learn-F7DF1E.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
     <a href="#"><img alt="selenium" src="https://img.shields.io/badge/selenium-02569B.svg?logo=selenium&logoColor=white"></a>
