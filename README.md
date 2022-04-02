@@ -133,5 +133,5 @@
 
 
 <p align="left">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting%20my%20profile,see%20your%20next%20time!&font=Monaco&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting%20my%20profile%20,%20see%20your%20next%20time!&font=Monaco&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
