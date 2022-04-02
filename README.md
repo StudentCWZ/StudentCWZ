@@ -127,6 +127,7 @@
 |-|-|
 
 <h2 align="left" font-face="Monaco"> ⚡ Recent GitHub Activity </h2>
+
 ![](https://activity-graph.herokuapp.com/graph?username=StudentCWZ&theme=redical)
 
 <!--
