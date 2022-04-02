@@ -16,9 +16,9 @@
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Golang"/>
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
-<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++"/>
+<img src="https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
