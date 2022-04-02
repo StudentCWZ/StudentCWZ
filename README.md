@@ -111,7 +111,7 @@
     <a href="#"><img alt="Jetbrains Pycharm" src="https://img.shields.io/badge/Jetbrains%20Pycharm-008678.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains Goland" src="https://img.shields.io/badge/Jetbrains%20Gland-1793D1.svg?logo=goland&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains DataGrip" src="https://img.shields.io/badge/Jetbrains%20DataGrip-302E31?logo=datagrip&logoColor=white"></a>
-    <a href="#"><img alt="Jetbrains IntelliJ IDEA" src="https://img.shields.io/badge/Jetbrains%20IntelliJ%20IDEA-DD1100.svg?logo=intelliJ&logoColor=white"></a>
+    <a href="#"><img alt="Jetbrains IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-DD1100.svg?logo=intelliJ&logoColor=white"></a>
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
