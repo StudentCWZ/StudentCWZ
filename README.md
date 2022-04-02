@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
+</p>
+
 #### 👨‍💻 About me
 - Hi there 👋. Welcome to my Github.
 - 🤔 My name is StudentCWZ from China.
