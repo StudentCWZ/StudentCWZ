@@ -131,6 +131,10 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=StudentCWZ&theme=redical)
 
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/StudentCWZ/StudentCWZ/assets/github-contribution-grid-snake.svg"/>
+</p>
+
 <!--
 **StudentCWZ/StudentCWZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
