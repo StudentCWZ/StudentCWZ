@@ -69,7 +69,7 @@
     <a href="#"><img alt="django" src="https://img.shields.io/badge/django-7952B3.svg?logo=django&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="pytorch" src="https://img.shields.io/badge/pytorch-20232e.svg?logo=pytorch&logoColor=white"></a>
+    <a href="#"><img alt="pytorch" src="https://img.shields.io/badge/pytorch-E34A86?logo=pytorch&logoColor=white"></a>
     <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit%20learn-404d59.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
