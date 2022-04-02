@@ -109,7 +109,7 @@
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-00b56a.svg?logo=Vim&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
-    <a href="#"><img alt="TextMate" src="https://img.shields.io/badge/TextMate-7952B3.svg?logo=TextMate&logoColor=white"></a>
+    <a href="#"><img alt="Dash" src="https://img.shields.io/badge/Dash-7952B3.svg?logo=dash&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains Pycharm" src="https://img.shields.io/badge/Jetbrains%20Pycharm-008678.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains Goland" src="https://img.shields.io/badge/Jetbrains%20Gland-1793D1.svg?logo=goland&logoColor=white"></a>
     <a href="#"><img alt="Jetbrains DataGrip" src="https://img.shields.io/badge/Jetbrains%20DataGrip-302E31?logo=datagrip&logoColor=white"></a>
@@ -123,7 +123,7 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="iTerm2" src="https://img.shields.io/badge/iTerm2-000000?logo=iTerm2&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
+    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-18A497?logo=anaconda&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
