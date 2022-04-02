@@ -46,12 +46,10 @@
 
 ##### 🚀 Platform
 <p>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=white"></a>
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
-[![](https://img.shields.io/badge/MacOS-BigSur-2376bc?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)]
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&logo=centos&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/MacOS-BigSur-2376bc?style=flat-square&logo=apple&logo=windows&logoColor=white"></a>
 </p>
 
 ##### 👨‍💻 Programming languages
