@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
+  <img src="https://github.com/StudentCWZ/StudentCWZ/blob/main/hello-world.gif" width="30%">
 </p>
 
 <!-- Typing SVG by StudentCWZ - https://github.com/StudentCWZ/readme-typing-svg -->
