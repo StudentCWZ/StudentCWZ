@@ -126,12 +126,7 @@
 |![StudentCWZ's Github Stats](https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-
-<h2 align="left" font-face="Monaco"> ⚡ Recent GitHub Activity </h2>
-
-![](https://activity-graph.herokuapp.com/graph?username=StudentCWZ&theme=redical)
-
-<h2 align="left" font-face="Monaco"> I'm a Night 🦉**  </h2>
+<h2 align="left" font-face="Monaco"> I'm a Night 🦉  </h2>
 
 ```text
 🌞 Morning    14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
@@ -153,6 +148,11 @@ Saturday     11 commits     ██░░░░░░░░░░░░░░░�
 Sunday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.76%
 
 ```
+
+
+<h2 align="left" font-face="Monaco"> ⚡ Recent GitHub Activity </h2>
+
+![](https://activity-graph.herokuapp.com/graph?username=StudentCWZ&theme=redical)
 
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting%20my%20profile;see%20your%20next%20time!&font=Monaco&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
