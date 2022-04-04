@@ -1,3 +1,4 @@
+<!-- Typing Gif by StudentCWZ -->
 <p align="center">
   <img src="https://github.com/StudentCWZ/StudentCWZ/blob/main/hello-world.gif" width="30%">
 </p>
@@ -26,7 +27,7 @@
 
 <h2 align="center" font-face="Monaco">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<h5 align="left" font-face="Monaco"> 🚀 Platform </h5>
+<h4 align="left" font-face="Monaco"> 🚀 Platform </h4>
 <p>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/MacOS-BigSur-2376bc?style=flat-square&font=Monaco&logo=apple&logoColor=white"></a>
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&font=Monaco&logo=windows&logoColor=white"></a>
@@ -34,7 +35,7 @@
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&font=Monaco&logo=centos&logoColor=white"></a>
 </p>
 
-<h5 align="left" font-face="Monaco"> 👨‍💻 Programming languages </h5>
+<h4 align="left" font-face="Monaco"> 👨‍💻 Programming languages </h4>
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&font=Monaco&logoColor=white"></a>
     <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Golang-0A9EDC.svg?logo=go&font=Monaco&logoColor=white"></a>
@@ -52,7 +53,7 @@
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-430098?logo=gnu-bash&font=Monaco&logoColor=white"></a>
 </p>
 
-<h5 align="left" font-face="Monaco"> 🧰 Frameworks and libraries </h5>
+<h4 align="left" font-face="Monaco"> 🧰 Frameworks and libraries </h4>
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-CB2029?logo=numpy&font=Monaco&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-5C2D91?logo=pandas&font=Monaco&logoColor=white"></a>
@@ -75,7 +76,7 @@
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-430098?logo=github%20actions&font=Monaco&logoColor=white"></a>
 </p>
 
-<h5 align="left" font-face="Monaco"> 🗄️ Databases and cloud hosting </h5>
+<h4 align="left" font-face="Monaco"> 🗄️ Databases and cloud hosting </h4>
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&font=Monaco&logoColor=white"></a>
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-C21325.svg?logo=redis&font=Monaco&logoColor=white"></a>
@@ -90,7 +91,7 @@
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&font=Monaco&logoColor=white"></a>
 </p>
 
-<h5 align="left" font-face="Monaco"> 💻 Software and tools </h5>
+<h4 align="left" font-face="Monaco"> 💻 Software and tools </h4>
 <p>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-00b56a.svg?logo=Vim&font=Monaco&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&font=Monaco&logoColor=white"></a>
@@ -111,50 +112,28 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&font=Monaco&logoColor=white"></a>
 </p>
 
-
+<!-- GitHub Readme Streak Stats - https://github.com/StudentCWZ/github-readme-streak-stats -->
 <h2 align="left" font-face="Monaco"> 🔥 Streak stats </h2>
 
-<!-- GitHub Readme Streak Stats - https://github.com/StudentCWZ/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/StudentCWZ/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=StudentCWZ&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
+<!-- GitHub Readme Github Stats - https://github.com/StudentCWZ/github-readme-github-stats -->
 <h2 align="left" font-face="Monaco"> 📃 StudentCWZ's Github Stats </h2>
 
 |![StudentCWZ's Github Stats](https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-<h2 align="left" font-face="Monaco"> I'm a Night 🦉  </h2>
 
-```text
-🌞 Morning    14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-🌆 Daytime    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
-🌃 Evening    95 commits     █████████████████░░░░░░░░   68.35% 
-🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
-
-```
-
-<h2 align="left" font-face="Monaco"> 📅 I'm Most Productive on Thursday  </h2>
-
-```text
-Monday       23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
-Tuesday      24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
-Wednesday    24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
-Thursday     27 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
-Friday       22 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
-Saturday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.91% 
-Sunday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.76%
-
-```
-
-
+<!-- GitHub Readme GitHub Activity - https://github.com/StudentCWZ/github-readme-github-activity  -->
 <h2 align="left" font-face="Monaco"> ⚡ Recent GitHub Activity </h2>
 
 ![](https://activity-graph.herokuapp.com/graph?username=StudentCWZ&theme=redical)
 
+<!-- Typing SVG by StudentCWZ - https://github.com/StudentCWZ/readme-typing-svg -->
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting%20my%20profile;see%20your%20next%20time!&font=Monaco&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
-
