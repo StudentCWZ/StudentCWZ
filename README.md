@@ -8,6 +8,23 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Golang%20and%20Python%20developer;Always%20learning%20new%20things&font=Monaco&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
+<h2 align="center" font-face="Monaco">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-Golang-black?style=flat-square&font=Monaco&logo=go"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&font=Monaco&logo=python"/>
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&font=Monaco&logo=java"/>
+<img src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&font=Monaco&logo=Vue.js"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&font=Monaco&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&font=Monaco&logo=react"/>
+<img src="https://img.shields.io/badge/-Redis-black?style=flat-square&font=Monaco&logo=redis"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&font=Monaco&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&font=Monaco&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&font=Monaco&logo=docker"/>
+<img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&font=Monaco&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&font=Monaco&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&font=Monaco&logo=github"/>
+</p>
+
 <h2 align="center" font-face="Monaco">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <h4 align="left" font-face="Monaco"> 🚀 Platform </h4>
