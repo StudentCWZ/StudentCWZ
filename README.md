@@ -145,6 +145,17 @@
   <br/>
 </details>
 
+<!-- GitHub Contribution - https://github.com/StudentCWZ/StudentCWZ/blob/main/assets/github-contribution-grid-snake.svg  -->
+<details>
+  <summary>✏️ GitHub Contribution</summary>
+  <br/>
+  <p align="center">
+  <a href="https://github.com/StudentCWZ/github-readme-github-contribution">
+    <img alt="StudentCWZ's GitHub Contribution" src="https://github.com/StudentCWZ/StudentCWZ/blob/main/assets/github-contribution-grid-snake.svg"/></a>
+  </p>
+  <br/>
+</details>
+
 <!-- GitHub Readme Github Stats - https://github.com/StudentCWZ/github-readme-github-stats -->
 <h2 align="left" font-face="Monaco"> 📃 StudentCWZ's Github Stats </h2>
 
