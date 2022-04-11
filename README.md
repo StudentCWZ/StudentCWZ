@@ -114,15 +114,6 @@
 
 <h2 align="left" font-face="Monaco"> 📊 Github stats </h2>
 
-<!-- GitHub Readme Github Stats - https://github.com/StudentCWZ/github-readme-github-stats -->
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/StudentCWZ/github-readme-stats"><img alt="StudentCWZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula" height="192px"/></a>
-  <a href="https://github.com/StudentCWZ/github-readme-stats"><img alt="StudentCWZ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&layout=compact&theme=tokyonight&langs_count=10" height="192px"/></a>
-  <br/>
-</details>
-
 <!-- GitHub Readme Streak Stats - https://github.com/StudentCWZ/github-readme-streak-stats -->
 <details>
   <summary>🔥 Streak Stats</summary>
@@ -131,6 +122,15 @@
   <a href="https://github.com/StudentCWZ/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="StudentCWZ's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=StudentCWZ&theme=monokai-metallian&hide_border=true"/></a>
   </p>
+  <br/>
+</details>
+
+<!-- GitHub Readme Github Stats - https://github.com/StudentCWZ/github-readme-github-stats -->
+<details>
+  <summary>📃 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/StudentCWZ/github-readme-stats"><img alt="StudentCWZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula" height="192px"/></a>
+  <a href="https://github.com/StudentCWZ/github-readme-stats"><img alt="StudentCWZ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&layout=compact&theme=tokyonight&langs_count=10" height="192px"/></a>
   <br/>
 </details>
 
@@ -155,22 +155,6 @@
   </p>
   <br/>
 </details>
-
-<!-- GitHub Readme Github Stats - https://github.com/StudentCWZ/github-readme-github-stats -->
-<h2 align="left" font-face="Monaco"> 📃 StudentCWZ's Github Stats </h2>
-
-|![StudentCWZ's Github Stats](https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
-
-
-<!-- GitHub Readme GitHub Activity - https://github.com/StudentCWZ/github-readme-github-activity  -->
-<h2 align="left" font-face="Monaco"> ⚡ Recent GitHub Activity </h2>
-
-![](https://activity-graph.herokuapp.com/graph?username=StudentCWZ&theme=redical)
-
-<h2 align="left" font-face="Monaco"> ✏️ GitHub Contribution </h2>
-
-![](https://github.com/StudentCWZ/StudentCWZ/blob/main/assets/github-contribution-grid-snake.svg)
 
 <!-- Typing SVG by StudentCWZ - https://github.com/StudentCWZ/readme-typing-svg -->
 <p align="center">
