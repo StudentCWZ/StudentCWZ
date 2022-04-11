@@ -112,6 +112,17 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&font=Monaco&logoColor=white"></a>
 </p>
 
+<h2 align="left" font-face="Monaco"> 📊 Github stats </h2>
+
+<!-- https://github.com/StudentCWZ/github-readme-stats -->
+<details>
+  <summary>💻 StudentCWZ's Github Stats</summary>
+  <br/>
+    <a href="https://github.com/StudentCWZ/github-readme-stats"><img alt="StudentCWZ's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=StudentCWZ&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/StudentCWZ/github-readme-stats"><img alt="StudentCWZ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
 <!-- GitHub Readme Streak Stats - https://github.com/StudentCWZ/github-readme-streak-stats -->
 <h2 align="left" font-face="Monaco"> 🔥 Streak stats </h2>
 
