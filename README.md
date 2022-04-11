@@ -116,7 +116,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/StudentCWZ/github-readme-streak-stats -->
 <details>
-  <summary>🔥 Streak Stats</summary>
+  <h4 align="left" font-face="Monaco"> 🔥 Streak Stats </h4>
   <br/>
   <p align="center">
   <a href="https://github.com/StudentCWZ/github-readme-streak-stats">
@@ -127,7 +127,7 @@
 
 <!-- GitHub Readme Github Stats - https://github.com/StudentCWZ/github-readme-github-stats -->
 <details>
-  <summary>📃 GitHub Profile Stats</summary>
+  <h4 align="left" font-face="Monaco"> 📃 GitHub Profile Stats </h4>
   <br/>
     <a href="https://github.com/StudentCWZ/github-readme-stats"><img alt="StudentCWZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=StudentCWZ&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=dracula" height="192px"/></a>
   <a href="https://github.com/StudentCWZ/github-readme-stats"><img alt="StudentCWZ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudentCWZ&layout=compact&theme=tokyonight&langs_count=10" height="192px"/></a>
@@ -136,7 +136,7 @@
 
 <!-- GitHub Readme GitHub Activity - https://github.com/StudentCWZ/github-readme-github-activity  -->
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <h4 align="left" font-face="Monaco"> ⚡ Recent GitHub Activity </h4>
   <br/>
   <p align="center">
   <a href="https://github.com/StudentCWZ/github-readme-github-activity">
@@ -147,7 +147,7 @@
 
 <!-- GitHub Contribution - https://github.com/StudentCWZ/StudentCWZ/blob/main/assets/github-contribution-grid-snake.svg  -->
 <details>
-  <summary>✏️ GitHub Contribution</summary>
+  <h4 align="left" font-face="Monaco"> ✏️ GitHub Contribution </h4>
   <br/>
   <p align="center">
   <a href="https://github.com/StudentCWZ/github-readme-github-contribution">
