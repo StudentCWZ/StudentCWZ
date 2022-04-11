@@ -128,7 +128,8 @@
   <summary>🔥 Streak stats</summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/StudentCWZ/github-readme-streak-stats"><img alt=""StudentCWZ's streak"" src=""https://github-readme-streak-stats.herokuapp.com/?user=StudentCWZ&theme=monokai-metallian&hide_border=true"/></a>
+  <a href="https://github.com/StudentCWZ/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="StudentCWZ's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=StudentCWZ&theme=monokai-metallian&hide_border=true"/></a>
   </p>
   <br/>
 </details>
