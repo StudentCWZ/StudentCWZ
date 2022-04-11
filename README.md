@@ -133,12 +133,12 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=StudentCWZ&theme=redical)
 
+<h2 align="left" font-face="Monaco"> ✏️ GitHub Contribution </h2>
+
+![](https://github.com/StudentCWZ/StudentCWZ/blob/main/assets/github-contribution-grid-snake.svg)
+
 <!-- Typing SVG by StudentCWZ - https://github.com/StudentCWZ/readme-typing-svg -->
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting%20my%20profile;see%20your%20next%20time!&font=Monaco&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
-
-<h2 align="left" font-face="Monaco"> ⚡ Recent GitHub contribution </h2>
-
-![](https://github.com/StudentCWZ/StudentCWZ/blob/main/assets/github-contribution-grid-snake.svg)
 
