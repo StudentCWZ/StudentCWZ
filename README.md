@@ -140,5 +140,5 @@
 
 <h2 align="left" font-face="Monaco"> ⚡ Recent GitHub contribution </h2>
 
-![](![](https://raw.githubusercontent.com/StudentCWZ/StudentCWZ/main/assets/github-contribution-grid-snake.svg))
+![](https://github.com/StudentCWZ/StudentCWZ/blob/main/assets/github-contribution-grid-snake.svg)
 
