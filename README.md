@@ -125,11 +125,22 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/StudentCWZ/github-readme-streak-stats -->
 <details>
-  <summary>🔥 Streak stats</summary>
+  <summary>🔥 Streak Stats</summary>
   <br/>
   <p align="center">
   <a href="https://github.com/StudentCWZ/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="StudentCWZ's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=StudentCWZ&theme=monokai-metallian&hide_border=true"/></a>
+  </p>
+  <br/>
+</details>
+
+<!-- GitHub Readme GitHub Activity - https://github.com/StudentCWZ/github-readme-github-activity  -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+  <p align="center">
+  <a href="https://github.com/StudentCWZ/github-readme-github-activity">
+    <img alt="StudentCWZ's GitHub Activity" src="https://activity-graph.herokuapp.com/graph?username=StudentCWZ&theme=redical"/></a>
   </p>
   <br/>
 </details>
