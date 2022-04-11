@@ -137,3 +137,8 @@
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20for%20visiting%20my%20profile;see%20your%20next%20time!&font=Monaco&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
+
+<h2 align="left" font-face="Monaco"> ⚡ Recent GitHub contribution </h2>
+
+![](![](https://raw.githubusercontent.com/StudentCWZ/StudentCWZ/main/assets/github-contribution-grid-snake.svg))
+
