@@ -1,6 +1,6 @@
 <!-- Typing Gif by StudentCWZ -->
 <p align="center">
-  <img src="https://github.com/StudentCWZ/StudentCWZ/blob/main/hello-world.gif" width="30%">
+  <img src="https://github.com/StudentCWZ/StudentCWZ/blob/main/img//hello-world.gif" width="30%">
 </p>
 
 <!-- Typing SVG by StudentCWZ - https://github.com/StudentCWZ/readme-typing-svg -->
