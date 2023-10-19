@@ -10,7 +10,7 @@
 
 <h2 align="center" font-face="Monaco">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-Golang-black?style=flat-square&font=Monaco&logo=go" style="font-family:Monaco"/>
+<img src="https://img.shields.io/badge/-Golang-black?style=flat-square&font=Monaco&logo=go" style="font-face:Monaco"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&font=Monaco&logo=python"/>
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&font=Monaco&logo=java"/>
 <img src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&font=Monaco&logo=Vue.js"/>
