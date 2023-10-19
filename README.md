@@ -8,6 +8,12 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Golang%20and%20Python%20developer;Always%20learning%20new%20things&font=Monaco&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
+<style>
+  img {
+    font-family: Monaco;
+  }
+</style>
+
 <h2 align="center" font-face="Monaco">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-Golang-black?style=flat-square&font=Monaco&logo=go"/>
